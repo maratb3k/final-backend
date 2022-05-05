@@ -22,4 +22,4 @@ Online store, where you can buy books.
 - SellerSerializer
 - UserSerializer
 #### Views:
-changes
+chang
