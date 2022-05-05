@@ -21,6 +21,5 @@ Online store, where you can buy books.
 - BuyerSerializer
 - SellerSerializer
 - UserSerializer
-
 #### Views:
 changes
