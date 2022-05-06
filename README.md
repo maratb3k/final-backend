@@ -8,8 +8,8 @@ Online store, where you can browse books by category, author and buy them.
 
 #### Models: 
 - Person
-- Seller
-- Buyer
+  - Seller
+  - Buyer
 - Book
 - Author
 - Category
