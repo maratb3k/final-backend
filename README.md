@@ -1,5 +1,5 @@
 ## Bookmania
-Online store, where you can buy books.
+Online store, where you can browse books by category, author and buy them.
 
 
 ### Class diagram
